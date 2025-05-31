@@ -12,19 +12,19 @@ As part of an analytics consultancy team, we have been tasked with creating a pi
 
 We have been provided with a dataset consisting of 8 tables exported as CSV files, along with a file to translate product categories into English. The data can be joined according to a provided schema diagram. Our task is to appropriately join the necessary data tables for your analysis. Note that not all tables were needed to be included in our analysis.
 
-Task Objectives
+## Task Objectives
 
-## Data Preparation:
-
+1. Data Preparation:
 Joining the relevant data tables to create a comprehensive dataset for analysis.
 Preparing the data for modeling, ensuring it is clean and suitable for machine learning.
-Model Development:
 
+Model Development:
 Building a predictive model using an appropriate machine learning algorithm.
 Choosing one of the following approaches:
 Regression Model: Predict star ratings as numerical values.
 Multi-Class Classification Model: Predict star ratings as multiple classes.
 Binary-Class Classification Model: Predict star ratings as above or below a threshold (e.g., "1-3 stars" or "4-5 stars").
-Goal
+
+## Project Scope
 
 The ultimate goal is to develop a model that accurately predicts customer review behavior, focusing on positive reviews. This will enable Nile to strategically target customers for review incentives, optimising their resource allocation and enhancing their online reputation.
